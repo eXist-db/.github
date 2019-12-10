@@ -11,7 +11,7 @@ If you wish to contribute, the general approach is:
 -   Do your stuff! :-)
 -   Commit to your repo. We like small, atomic commits that don't mix concerns.
 -   Make sure your branch is based on the latest eXist-db `develop` or `master` branch before making a pull-request. This will ensure that we can easily merge in your changes. See [Syncing a Fork](#syncing-a-fork).
--   Push your hotfix or feature branch to your GitHub using GitFlow: `git flow feature publish my-feature`.
+-   Push your hotfix or feature branch to your GitHub `git push`.
 -   Send us a Pull Request on GitHub from your branch to our `develop` branch.
 -   Once the Pull Request is merged you can delete your branch, you need not finish or merge it, you will however want to sync your develop branch to bring back your changes. See [Syncing a Fork](#syncing-a-fork).
 
